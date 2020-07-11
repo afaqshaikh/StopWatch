@@ -1,0 +1,47 @@
+.container{
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #efefef;
+    box-shadow: 0 0 5px grey;
+    border-radius: 5px;
+}
+.btn{
+    margin: 5px;
+    width: 15%;
+    margin-left: 10px;
+    
+}
+.img{
+    margin: 0 auto;
+    padding: 10px;
+    width: 40%;
+    margin-top: 5px;
+}
+.center{
+    
+    margin-top: 5px;
+    margin: 0 auto;
+    padding: 10px;
+    color: red;
+    text-shadow: 0 0 2px #fff;
+    font-weight: bold;
+}
+
+h2{
+    padding: 10px;
+    font-size: 70px;
+    ;
+    margin-top: 5px;
+    color: blue;
+  
+}
+.heading{
+    margin-left: 150px;
+}
+
+.btn-success{
+    margin-left: 125px;
+}
